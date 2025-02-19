@@ -56,7 +56,7 @@ transition={Bounce}
 
         <div className=" w-full sm:w-[90%] md:w-[80%] lg:w-[60%] p-0.5 rounded-3xl">
        
-          <div className="rounded-3xl bg-custom-gradient shadow-custom-drop">
+          <div className="rounded-3xl border ">
             
             <div className="bg-black rounded-3xl p-5 flex flex-col gap-8 items-center justify-center">
             <h2 className="font-semibold bg-text-custom-gradient bg-clip-text text-transparent shadow-inner-custom mt-4 text-2xl sm:text-3xl md:text-3xl lg:text-4xl">

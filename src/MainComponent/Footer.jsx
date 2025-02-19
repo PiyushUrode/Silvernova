@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Contact from "../MainComponent/Contact.jsx";
 import "../index.css";
-import logo from "../assets/logo/silvernovalogo2.png";
+import logo from "../assets/logo/silvernovalogo3.png";
 
 import footericon1 from "../assets/Image/footericon1.png";
 import footericon2 from "../assets/Image/footericon2.png";
@@ -51,7 +51,7 @@ const Footer = () => {
           <div className="md:flex md:justify-between tablet:justify-center z-10">
             <div className="flex flex-col  gap-8 sm:gap-5 mb-6 max-w-[100%] sm:max-w-[35%] tablet:max-w-[100%] items-left tablet:items-center md:mb-0">
               <Link className="flex items-left" smooth to="/">
-                <img src={logo} className="     me-3" alt="laststake Logo" />
+                <img src={logo} className="  w-[30%]   me-3" alt="laststake Logo" />
               </Link>
               <p> Token Development and Launch, Website Launch and Whitepaper Release, Initial Exchange Listings and Liquidity Pool Creation..</p>
            
@@ -117,7 +117,7 @@ Privacy Policy
 
 
                   <li className="tablet:text-center">
-                    <a href="#token">Presale</a>
+                    <a href="/presale">Presale</a>
                   </li>
 
 

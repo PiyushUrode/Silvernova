@@ -63,7 +63,7 @@ const S5Roadmap = memo(function S5Roadmap() {
                         {/* phase1 */}
                         <div className="roadmap-phase1" data-phase="1">
                             <div className="phase-contentt">
-                                <div className="phase-timee xl:border-2 xl:px-16 xl:py-1  xl:rounded-full "> The Launchpad <br/>
+                                <div className="phase-timee xl:border-2 xl:px-16 xl:py-1  xl:rounded-full bg-text-custom-gradient bg-clip-text text-transparent "> The Launchpad <br/>
                                 (Q1 2025)</div>
                             </div>
                             <div className="quarter-circle w-full border-2 bg-white hidden md:block  text-black"> 

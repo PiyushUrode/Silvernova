@@ -378,7 +378,8 @@ padding-left: 20px;}
   gap: 15px;
 }
 
-.phase-time{    background: -webkit-linear-gradient(0deg, #FFFFFF 26.62%, #FF9900 72.69%);
+.phase-time{        background: -webkit-linear-gradient(10deg, rgba(99,100,102,1) 0%, rgba(99,100,102,1) 20%, rgba(245,245,246,1) 40%, rgba(245,245,246,1) 50%, rgba(99,100,102,1) 80%, rgba(99,100,102,1) 100%);;
+
 background-clip: text;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;}
@@ -388,7 +389,7 @@ background-clip: text;
     font-weight: 900;
     line-height: 38.09px;
     text-align: center;
-    background: -webkit-linear-gradient(0deg, #FFFFFF 26.62%, #FF9900 72.69%);
+    background: -webkit-linear-gradient(10deg, rgba(99,100,102,1) 0%, rgba(99,100,102,1) 20%, rgba(245,245,246,1) 40%, rgba(245,245,246,1) 50%, rgba(99,100,102,1) 80%, rgba(99,100,102,1) 100%);;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

@@ -83,7 +83,7 @@ const Navbar = () => {
             </a>
           </div> */}
 
-          <div className="flex gap-3 sm:gap-1   items-center">g
+          <div className="flex gap-3 sm:gap-1   items-center">
           <Link smooth to="/presale" onClick={closeMenu}>
            
                         <div className="flex sm:flex-row flex-col gap-5 md:gap-10 justify-center md:justify-start">

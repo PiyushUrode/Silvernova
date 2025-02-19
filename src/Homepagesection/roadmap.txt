@@ -1,0 +1,69 @@
+    <div className=  'sm:hidden  timeline2  w-full    justify-center items-center flex flex-col  '> 
+    <div className="timeline-container2 gap-10 flex flex-col justify-center align-middle text-center">
+      {/* Individual timeline point */}
+      <div className="timeline-point2 px-2">
+<h1 className='timeline-h1 '> 1</h1>
+        <div className="popup2">
+          <div className="popup-number2 text-yellow-500 pb-2 ">Foundation <br></br> (Jan - Mar 2025)</div>
+          <div className="popup-details2 border-4 p-2 border-yellow-500 rounded-xl bg-white text-black ">
+            <div className='border-2 border-yellow-500 p-2 rounded-lg'> 
+              
+
+          Develop and audit the LST smart contract, build the casino platform, and engage the community through social media and airdrops.   </div>
+        </div>
+        </div>
+      </div>
+
+      <div className="timeline-point2 px-2">
+<h1 className='timeline-h1 '> 2</h1>
+        <div className="popup2">
+          <div className="popup-number2 text-yellow-500  pb-2">Pre Launch <br></br> (Jan - Mar 2025)</div>
+          <div className="popup-details2 border-4 p-2 border-yellow-500 rounded-xl bg-white text-black ">
+            <div className='border-2 border-yellow-500 p-2 rounded-lg'> 
+              
+            Conduct a token sale (IDO), establish partnerships, and create a liquidity pool on major DEXs.   </div>
+        </div>
+        </div>
+      </div>
+
+
+      <div className="timeline-point2 px-2">
+<h1 className='timeline-h1 '> 3</h1>
+        <div className="popup2">
+          <div className="popup-number2 text-yellow-500 pb-2 ">Launch <br></br> (Jan - Mar 2025)</div>
+          <div className="popup-details2 border-4 p-2 border-yellow-500 rounded-xl bg-white text-black ">
+            <div className='border-2 border-yellow-500 p-2 rounded-lg'> 
+              
+            Launch the casino platform with initial games, run marketing campaigns, and list LST on major exchanges.  </div>
+        </div>
+        </div>
+      </div>
+
+
+      <div className="timeline-point2 px-2">
+<h1 className='timeline-h1 '> 4</h1>
+        <div className="popup2">
+          <div className="popup-number2 text-yellow-500 pb-2">Growth And Expansion <br></br> (Jan - Mar 2025)</div>
+          <div className="popup-details2 border-4 p-2 border-yellow-500 rounded-xl bg-white text-black ">
+            <div className='border-2 border-yellow-500 p-2 rounded-lg'> 
+              
+            Add new games, launch a mobile app, and expand to global markets with localized content.  </div>
+        </div>
+        </div>
+      </div>
+
+      <div className="timeline-point2 px-2">
+<h1 className='timeline-h1 '> 5</h1>
+        <div className="popup2">
+          <div className="popup-number2 text-yellow-500 pb-2"> Sustainability & Innovation (2026) <br></br> (Jan - Mar 2025)</div>
+          <div className="popup-details2 border-4 p-2 border-yellow-500 rounded-xl bg-white text-black ">
+            <div className='border-2 border-yellow-500 p-2 rounded-lg'> 
+              
+            Introduce governance, continue platform enhancements, and explore metaverse integration for immersive gaming experiences.   </div>
+        </div>
+        </div>
+      </div>
+
+
+    </div>
+    </div>

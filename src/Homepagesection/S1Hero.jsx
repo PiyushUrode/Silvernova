@@ -77,7 +77,7 @@ Silvernova Token (SRN) is more than just a cryptocurrency- It's a revolution in 
         >
           <span className="absolute inset-0 p-px flex items-center justify-center">
             <a
-              href="https://orbits-token.gitbook.io/orbits-token/"
+              href="/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#ffff] font-semibold uppercase"
